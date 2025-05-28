@@ -7,10 +7,8 @@
 - ⚡ **Fun fact:** In my free time, I enjoy hitting the gym and staying active as a DJ.
 - ## 📊 GitHub Stats
  
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BastiBuilds&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastiBuilds&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-</div>
  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BastiBuilds&theme=tokyonight)
 
