@@ -5,5 +5,13 @@
 - 💼 **By day:** I’m a SAP ABAP Developer at Coop and a mentor for aspiring developers.
 - 💡 **I’m looking to collaborate on:** AI projects, SAP innovations, and business technology solutions.
 - ⚡ **Fun fact:** In my free time, I enjoy hitting the gym and staying active as a DJ.
+- ## 📊 GitHub Stats
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BastiBuilds&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastiBuilds&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
+</div>
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=BastiBuilds&theme=tokyonight)
 
 ![Bastis's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastiBuilds&show_icons=true&theme=radical)
