@@ -6,3 +6,4 @@
 - 💡 **I’m looking to collaborate on:** AI projects, SAP innovations, and business technology solutions.
 - ⚡ **Fun fact:** In my free time, I enjoy hitting the gym and staying active as a DJ.
 
+![Bastis's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastiBuilds&show_icons=true&theme=radical)
