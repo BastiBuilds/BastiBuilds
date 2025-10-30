@@ -8,7 +8,5 @@
 - ## 📊 GitHub Stats
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastiBuilds&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
- 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BastiBuilds&theme=tokyonight)
 
 ![Bastis's GitHub stats](https://github-readme-stats.vercel.app/api?username=BastiBuilds&show_icons=true&theme=radical)
